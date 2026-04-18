@@ -112,20 +112,20 @@ print("Predicted Breed:", predicted_class)
 
 ## Future Improvements
 
-Fine-tune deeper CNN layers for higher accuracy
+- Fine-tune deeper CNN layers for higher accuracy
 
-Increase dataset size for better generalization
+- Increase dataset size for better generalization
 
-Deploy as a web app (Streamlit / Flask)
+- Deploy as a web app (Streamlit / Flask)
 
-Add real-time prediction via webcam
+- Add real-time prediction via webcam
 
-Convert to mobile-friendly model (TensorFlow Lite)
+- Convert to mobile-friendly model (TensorFlow Lite)
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo, improve the model, or add new features.
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
